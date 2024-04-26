@@ -6,7 +6,6 @@
 The project was developed with the graphical designed using figma and game engine using **Unity** in combination with Unity service, mysql and Microsoft Azure for backend data storing and authentication.
 
 ## Demo
-Youtube : 
 Report : [HCMUT Navigation Solution.pdf](https://github.com/ShunPeng1/HCMUT-Navigation-Solution/files/15131167/HCMUT.Navigation.Solution.pdf)
 
 ## Installation guide
