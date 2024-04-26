@@ -1,9 +1,7 @@
 # HCMUT Navigation Solution
 
 ## Introduction.
-**Parchessi 2.0** is a game developed by the students of Ho Chi Minh University of technology, with the aim to try to change the dynamic of the original board game parchessi.
-
-The project was developed with the graphical designed using figma and game engine using **Unity** in combination with Unity service, mysql and Microsoft Azure for backend data storing and authentication.
+**HCMUT Navigation Solution** is a Navigation and Calendar Schedule App using Unity, GPS, Path‑finding Algorithms of HCMUT' buildings and classrooms.
 
 ## Demo
 Report : [HCMUT Navigation Solution.pdf](https://github.com/ShunPeng1/HCMUT-Navigation-Solution/files/15131167/HCMUT.Navigation.Solution.pdf)
